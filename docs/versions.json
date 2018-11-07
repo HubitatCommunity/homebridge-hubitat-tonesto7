@@ -1,0 +1,19 @@
+{
+        "Comment": "Last updated: 07/11/2018",
+        "copyright": " &#9400; 2018 Tonesto7",
+        "versions": {
+                "Application": {
+                        "Homebridge": "1.5.2"
+                },
+                "Driver": {
+                },
+
+                "UpdateInfo": {
+                        "Application": {
+                                "Homebridge": "Updated: 07/11/2018"
+                        },
+                        "Driver": {
+                        }
+                }
+        }
+}
